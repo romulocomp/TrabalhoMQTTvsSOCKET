@@ -1,0 +1,2 @@
+# TrabalhoMQTTvsSOCKET
+trabalho de SISTEMAS DISTRIBUÍDOS - UFC
